@@ -19,6 +19,7 @@ Syntax highlighted code block
 
 #### Resouces
 - (docs to markdown) (https://word-mato-markdow.heroku.app)
+- Atom - text editor, convert md to pdf
 
 - Bulleted
 - List
