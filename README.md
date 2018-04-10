@@ -18,7 +18,7 @@ Syntax highlighted code block
 ### Header 3
 
 #### Resouces
-- (docs to markdown) (https://word-mato-markdow.heroku.app)
+- (docs to markdown) (https://word-to-markdown.heroku.app)
 - Atom - text editor, convert md to pdf
 
 - Bulleted
